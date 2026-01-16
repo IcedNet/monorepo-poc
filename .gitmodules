@@ -1,0 +1,3 @@
+[submodule "nest-monorepo-poc"]
+	path = nest-monorepo-poc
+	url = ubuntu@icednet.broke-it.net:/home/ubuntu/git/nest-monorepo-poc.git
